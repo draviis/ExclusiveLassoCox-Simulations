@@ -1,0 +1,18 @@
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# Results (large files)
+results/*
+!results/.gitkeep
+
+# Data (if large real datasets are stored locally)
+data/*
+!data/README.md
+
+# Temporary
+*.rds
+*.csv
+*.log
